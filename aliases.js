@@ -4,5 +4,7 @@ module.exports = {
   '@root': path.resolve(__dirname),
   '@models': path.resolve(__dirname, 'models'),
   '@controllers': path.resolve(__dirname, 'controllers'),
-  '@validators': path.resolve(__dirname, 'validators')
+  '@validators': path.resolve(__dirname, 'validators'),
+  '@services': path.resolve(__dirname, 'services'),
+  '@repositories': path.resolve(__dirname, 'repositories')
 };

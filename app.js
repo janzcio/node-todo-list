@@ -8,6 +8,8 @@ global.__rootdir = aliases['@root'];
 global.__models = aliases['@models'];
 global.__controllers = aliases['@controllers'];
 global.__validators = aliases['@validators'];
+global.__services = aliases['@services'];
+global.__repositories = aliases['@repositories'];
 
 const morgan = require('morgan');
 
