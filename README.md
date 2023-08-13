@@ -20,9 +20,9 @@ npm install
 
 Connection guide
 ```bash
-go to config.json and change the values of the properties with your connection
+Go to config.json and change the values of the properties with your connection. Create a `database` the same database name value in your `config.json` file for your connection 
 ```
-Create a `database` the same database name value in your `config.json` file for your connection 
+
 
 
 Run migration
