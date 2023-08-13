@@ -18,8 +18,7 @@ Run npm
 npm install
 ```
 
-### Connection guide
-Config your connection or create `.env` file.
+Connection guide
 ```bash
 go to config.json and change the values of the properties with your connection
 ```
