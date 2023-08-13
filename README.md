@@ -32,7 +32,7 @@ sequelize db:migrate
 
 Endpoint guide
 ```bash
-check the folder `postman` and import it to json your postman application.
+check the folder `postman` and import the json file to your postman application.
 ```
 
 ### Run the project
